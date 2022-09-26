@@ -15,3 +15,4 @@ const getNews = async function () {
   }
 };
 getNews();
+
